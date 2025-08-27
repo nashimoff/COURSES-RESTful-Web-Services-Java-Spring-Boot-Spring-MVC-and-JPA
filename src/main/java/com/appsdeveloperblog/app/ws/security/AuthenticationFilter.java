@@ -10,7 +10,5 @@ public class AuthenticationFilter extends UsernamePasswordAuthenticationFilter {
         super(authenticationManager);
     }
 
-    //@Override
-    //last change deleted akirkilar  jangi jashoo bul jaktan
-    public AuthenticationFilter(AuthenticationManager authenticationManager, UserDetailsService userDetailsService) {}
+    //public
 }
