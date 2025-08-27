@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="128dfb3c-da44-4d21-bdb7-ed59c83139b0" name="Changes" comment="Update project changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/appsdeveloperblog/app/ws/security/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsdeveloperblog/app/ws/security/AuthenticationFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +145,7 @@
       <workItem from="1756283430536" duration="12000" />
       <workItem from="1756283447527" duration="24000" />
       <workItem from="1756283507772" duration="59000" />
-      <workItem from="1756283638560" duration="807000" />
+      <workItem from="1756283638560" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="Quick update">
       <option name="closed" value="true" />
