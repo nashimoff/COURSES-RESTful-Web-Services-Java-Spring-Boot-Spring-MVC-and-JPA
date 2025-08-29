@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="128dfb3c-da44-4d21-bdb7-ed59c83139b0" name="Changes" comment="Update project changes">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/appsdeveloperblog/app/ws/security/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/appsdeveloperblog/app/ws/security/AuthenticationFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/appsdeveloperblog/app/ws/security/SecurityConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/appsdeveloperblog/app/ws/security/SecurityConstants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/appsdeveloperblog/app/ws/security/WebSecurity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/appsdeveloperblog/app/ws/security/WebSecurity.class" afterDir="false" />
-    </list>
+    <list default="true" id="128dfb3c-da44-4d21-bdb7-ed59c83139b0" name="Changes" comment="Update project changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +145,7 @@
       <workItem from="1756283447527" duration="24000" />
       <workItem from="1756283507772" duration="59000" />
       <workItem from="1756283638560" duration="3764000" />
-      <workItem from="1756367929894" duration="3222000" />
+      <workItem from="1756367929894" duration="3597000" />
     </task>
     <task id="LOCAL-00001" summary="Quick update">
       <option name="closed" value="true" />

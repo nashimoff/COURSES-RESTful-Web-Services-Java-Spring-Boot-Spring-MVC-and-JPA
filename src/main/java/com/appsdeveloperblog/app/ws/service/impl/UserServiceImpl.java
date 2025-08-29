@@ -57,7 +57,7 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public UserDto getUserByUsername(String email) {
+    public UserDto getUser(String email) {
         return null;
     }
 }
