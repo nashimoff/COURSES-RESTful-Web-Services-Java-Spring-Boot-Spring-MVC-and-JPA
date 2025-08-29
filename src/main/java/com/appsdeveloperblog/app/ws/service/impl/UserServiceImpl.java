@@ -55,4 +55,9 @@ public class UserServiceImpl implements UserService {
 
         return new User(username, userEntity.getEncryptedPassword(), new ArrayList<>());
     }
+
+    @Override
+    public UserDto getUserByUsername(String email) {
+        return null;
+    }
 }
